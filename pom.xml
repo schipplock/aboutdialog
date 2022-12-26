@@ -17,7 +17,7 @@ limitations under the License.
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.schipplock.gui.swing.dialogs</groupId>
     <artifactId>aboutdialog</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>AboutDialog</name>
     <description>AboutDialog for use in Swing applications</description>
     <url>https://github.com/schipplock/aboutdialog</url>
@@ -137,7 +137,7 @@ limitations under the License.
         <dependency>
             <groupId>de.schipplock.gui.swing</groupId>
             <artifactId>ahreflabel</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

@@ -163,7 +163,7 @@ public class AboutDialog extends JDialog {
     }
 
     private String localize(String key) {
-        ResourceBundle bundle = ResourceBundle.getBundle("i18n/MessagesBundle");
+        ResourceBundle bundle = ResourceBundle.getBundle(format("%s/aboutdialog/i18n/MessagesBundle", getClass().getPackageName().replace(".", "/")));
         return bundle.getString(key);
     }
 }
