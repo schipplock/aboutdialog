@@ -2,7 +2,6 @@
 
 **AboutDialog** ist eine Java Bibliothek, mit der ich in einer Swing-Anwendung ohne viel Aufwand einen "about"-Dialog
 darstelle.
-Diese Bibliothek wurde mit Java 17 getestet.
 
 ## Screenshots
 
@@ -16,7 +15,7 @@ Diese Bibliothek wurde mit Java 17 getestet.
 <dependency>
     <groupId>de.schipplock.gui.swing.dialogs</groupId>
     <artifactId>aboutdialog</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 </dependency>
 ```
 
